@@ -47,7 +47,7 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-white/10 mt-12 pt-6 text-sm text-center text-gray-600">
-        © {new Date().getFullYear()} Virtual Courses. All rights reserved.
+        © {new Date().getFullYear()} EduNest LMS. All rights reserved.
       </div>
     </footer>
   );
