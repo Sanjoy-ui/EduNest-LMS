@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/Gemini_AI-2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-# EduNest LMS — Learning Management System
+# EduNest LMS — Learning Management System 
+# [Live Link](https://edu-nest-lms.vercel.app)
 
 A full-stack **Learning Management System** built with the MERN stack, featuring dual-role authentication (Student & Educator), AI-powered course search via Google Gemini, Razorpay payment integration, and a modern responsive UI powered by Tailwind CSS.
 
