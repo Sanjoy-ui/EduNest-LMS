@@ -11,7 +11,7 @@ const Footer = () => {
         <div>
           <div className="flex items-center gap-3 mb-4">
             <img src={logo} alt="Logo" className="h-10 rounded-lg border border-white/10" />
-            <h2 className="text-xl font-bold text-white">Virtual Courses</h2>
+            <h2 className="text-xl font-bold text-white">EduNest LMS</h2>
           </div>
           <p className="text-sm leading-relaxed opacity-70">
             AI-powered learning platform to help you grow smarter. Learn anything, anytime, anywhere.
